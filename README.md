@@ -31,10 +31,10 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
+ - Email: emailym@gmail.com
+ - Discord ID: qcmp34
+ - GitHub ID: qcmp34
+ - Nationality: Swiss
  - Current affiliation:
 
 Team Member 2: _(full name)_
@@ -45,9 +45,10 @@ Team Member 2: _(full name)_
  - Current affiliation:
 
 ### Project Solution:
+I uploaded task2 (var.class.), task3 (quanvolution), and task4 (sine function)
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
-### Project Presentation Deck:
+### Project Presentation Deck: 
 _Link a 5min. presentation recording or deck here._
 
